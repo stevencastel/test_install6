@@ -1,0 +1,4 @@
+[submodule "difodoo"]
+	path = difodoo
+	url = git@github.com:stevencastel/gesprim.git
+	branch = master
